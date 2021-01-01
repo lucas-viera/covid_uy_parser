@@ -1,0 +1,707 @@
+{
+  "Build" : "17G68",
+  "ExportVersion" : 1,
+  "ExposureChecks" : [
+    {
+      "Hash" : "3B409FA793068866D338E7421EFF39D353166A1B6B939785F53FBD1EDC09227B",
+      "RandomIDCount" : 62,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-24 00:37:40 -0300"
+    },
+    {
+      "Hash" : "4BFB998530C711B1CF654367D50F6E03B62AE7718434F98177EC6E00575C42BE",
+      "RandomIDCount" : 94,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-24 00:37:40 -0300"
+    },
+    {
+      "Hash" : "5B9B91FCBA504EC7AAA5EA602366EE302E7D041CD13F1A3F6C7EF7856FA60593",
+      "RandomIDCount" : 36,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-25 00:37:53 -0300"
+    },
+    {
+      "Hash" : "2418D415C68C5552729285FECF315DB73120E35DB64EA111B62A11013D19D96F",
+      "RandomIDCount" : 81,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-25 00:37:53 -0300"
+    },
+    {
+      "Hash" : "B68D7D491EF54BEECD5C4DA58C4BA50CF42D6B2C6E9FF339DEF3B9AD7D6CFCA7",
+      "RandomIDCount" : 64,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-25 00:37:53 -0300"
+    },
+    {
+      "Hash" : "C753F86837F026CC81AA61A44523D01B19A7074ECA7440B342C736FF1E7A2580",
+      "RandomIDCount" : 105,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-25 00:37:53 -0300"
+    },
+    {
+      "Hash" : "75619C210FF6278BC7517DF60509CAE45E880FDA66CC26933D7A5F7CB7A78030",
+      "RandomIDCount" : 124,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-25 00:37:53 -0300"
+    },
+    {
+      "Hash" : "3B409FA793068866D338E7421EFF39D353166A1B6B939785F53FBD1EDC09227B",
+      "RandomIDCount" : 62,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-25 00:37:53 -0300"
+    },
+    {
+      "Hash" : "81A42355DC7E664C77C446CB4B73B04C2794701F29F984859372E2E2C68EF71F",
+      "RandomIDCount" : 165,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-25 00:37:53 -0300"
+    },
+    {
+      "Hash" : "09371AB9607A2CCA87FD06B9C06F98151989BE1E584CEC15F0B241CBDC070936",
+      "RandomIDCount" : 253,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-25 00:37:53 -0300"
+    },
+    {
+      "Hash" : "6B5586818231382CCBEE3675627D146E76913AD947E764F2EBE4DF1EEBF6409A",
+      "RandomIDCount" : 64,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-25 00:37:53 -0300"
+    },
+    {
+      "Hash" : "4BFB998530C711B1CF654367D50F6E03B62AE7718434F98177EC6E00575C42BE",
+      "RandomIDCount" : 94,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-25 00:37:53 -0300"
+    },
+    {
+      "Hash" : "D3D9A1FA7C3A636FF833CC88D81304B03C8FDAED1FE33B12C44BEFAC44E1BD7B",
+      "RandomIDCount" : 250,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-25 00:37:53 -0300"
+    },
+    {
+      "Hash" : "95E15E225C0885E280CBD4AD50D20559709381EFD9AE4143C548D3B108C2FB34",
+      "RandomIDCount" : 467,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-25 00:37:53 -0300"
+    },
+    {
+      "Hash" : "067489B32849A2AA08F2BFA439512EBAFDA2E4F86F0B207FDF16D213E0063B06",
+      "RandomIDCount" : 201,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-25 00:37:53 -0300"
+    },
+    {
+      "Hash" : "081C02D4DFD1EC10C9D15FA6172E414A67C88C8F47A7C2A53E91912882C0C3F7",
+      "RandomIDCount" : 211,
+      "MatchCount" : 1,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-25 00:37:53 -0300"
+    },
+    {
+      "Hash" : "B68D7D491EF54BEECD5C4DA58C4BA50CF42D6B2C6E9FF339DEF3B9AD7D6CFCA7",
+      "RandomIDCount" : 64,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-26 06:28:26 -0300"
+    },
+    {
+      "Hash" : "C753F86837F026CC81AA61A44523D01B19A7074ECA7440B342C736FF1E7A2580",
+      "RandomIDCount" : 105,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-26 06:28:26 -0300"
+    },
+    {
+      "Hash" : "75619C210FF6278BC7517DF60509CAE45E880FDA66CC26933D7A5F7CB7A78030",
+      "RandomIDCount" : 124,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-26 06:28:26 -0300"
+    },
+    {
+      "Hash" : "3B409FA793068866D338E7421EFF39D353166A1B6B939785F53FBD1EDC09227B",
+      "RandomIDCount" : 62,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-26 06:28:26 -0300"
+    },
+    {
+      "Hash" : "81A42355DC7E664C77C446CB4B73B04C2794701F29F984859372E2E2C68EF71F",
+      "RandomIDCount" : 165,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-26 06:28:26 -0300"
+    },
+    {
+      "Hash" : "6B5586818231382CCBEE3675627D146E76913AD947E764F2EBE4DF1EEBF6409A",
+      "RandomIDCount" : 64,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-26 06:28:26 -0300"
+    },
+    {
+      "Hash" : "09371AB9607A2CCA87FD06B9C06F98151989BE1E584CEC15F0B241CBDC070936",
+      "RandomIDCount" : 253,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-26 06:28:26 -0300"
+    },
+    {
+      "Hash" : "4BFB998530C711B1CF654367D50F6E03B62AE7718434F98177EC6E00575C42BE",
+      "RandomIDCount" : 94,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-26 06:28:26 -0300"
+    },
+    {
+      "Hash" : "067489B32849A2AA08F2BFA439512EBAFDA2E4F86F0B207FDF16D213E0063B06",
+      "RandomIDCount" : 201,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-26 06:28:26 -0300"
+    },
+    {
+      "Hash" : "D3D9A1FA7C3A636FF833CC88D81304B03C8FDAED1FE33B12C44BEFAC44E1BD7B",
+      "RandomIDCount" : 250,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-26 06:28:26 -0300"
+    },
+    {
+      "Hash" : "081C02D4DFD1EC10C9D15FA6172E414A67C88C8F47A7C2A53E91912882C0C3F7",
+      "RandomIDCount" : 211,
+      "MatchCount" : 1,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-26 06:28:26 -0300"
+    },
+    {
+      "Hash" : "95E15E225C0885E280CBD4AD50D20559709381EFD9AE4143C548D3B108C2FB34",
+      "RandomIDCount" : 467,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-26 06:28:26 -0300"
+    },
+    {
+      "Hash" : "EAE431D93BCF71307054E3DCF16BEEB5FDE05AE37E591E2BAB519C4EEC6582D7",
+      "RandomIDCount" : 174,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-26 06:28:26 -0300"
+    },
+    {
+      "Hash" : "95BB4F833525861467B34409E80FE777C91F84032406C6D4311F62551A20040E",
+      "RandomIDCount" : 113,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-26 06:28:26 -0300"
+    },
+    {
+      "Hash" : "C753F86837F026CC81AA61A44523D01B19A7074ECA7440B342C736FF1E7A2580",
+      "RandomIDCount" : 105,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-27 07:40:01 -0300"
+    },
+    {
+      "Hash" : "75619C210FF6278BC7517DF60509CAE45E880FDA66CC26933D7A5F7CB7A78030",
+      "RandomIDCount" : 124,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-27 07:40:01 -0300"
+    },
+    {
+      "Hash" : "81A42355DC7E664C77C446CB4B73B04C2794701F29F984859372E2E2C68EF71F",
+      "RandomIDCount" : 165,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-27 07:40:01 -0300"
+    },
+    {
+      "Hash" : "3B409FA793068866D338E7421EFF39D353166A1B6B939785F53FBD1EDC09227B",
+      "RandomIDCount" : 62,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-27 07:40:01 -0300"
+    },
+    {
+      "Hash" : "6B5586818231382CCBEE3675627D146E76913AD947E764F2EBE4DF1EEBF6409A",
+      "RandomIDCount" : 64,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-27 07:40:01 -0300"
+    },
+    {
+      "Hash" : "09371AB9607A2CCA87FD06B9C06F98151989BE1E584CEC15F0B241CBDC070936",
+      "RandomIDCount" : 253,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-27 07:40:01 -0300"
+    },
+    {
+      "Hash" : "4BFB998530C711B1CF654367D50F6E03B62AE7718434F98177EC6E00575C42BE",
+      "RandomIDCount" : 94,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-27 07:40:01 -0300"
+    },
+    {
+      "Hash" : "D3D9A1FA7C3A636FF833CC88D81304B03C8FDAED1FE33B12C44BEFAC44E1BD7B",
+      "RandomIDCount" : 250,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-27 07:40:01 -0300"
+    },
+    {
+      "Hash" : "067489B32849A2AA08F2BFA439512EBAFDA2E4F86F0B207FDF16D213E0063B06",
+      "RandomIDCount" : 201,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-27 07:40:01 -0300"
+    },
+    {
+      "Hash" : "95E15E225C0885E280CBD4AD50D20559709381EFD9AE4143C548D3B108C2FB34",
+      "RandomIDCount" : 467,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-27 07:40:01 -0300"
+    },
+    {
+      "Hash" : "081C02D4DFD1EC10C9D15FA6172E414A67C88C8F47A7C2A53E91912882C0C3F7",
+      "RandomIDCount" : 211,
+      "MatchCount" : 1,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-27 07:40:01 -0300"
+    },
+    {
+      "Hash" : "EAE431D93BCF71307054E3DCF16BEEB5FDE05AE37E591E2BAB519C4EEC6582D7",
+      "RandomIDCount" : 174,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-27 07:40:01 -0300"
+    },
+    {
+      "Hash" : "95BB4F833525861467B34409E80FE777C91F84032406C6D4311F62551A20040E",
+      "RandomIDCount" : 113,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-27 07:40:01 -0300"
+    },
+    {
+      "Hash" : "E2C3FE45BBDDAA57EFD6A27B2B4561DC704A1D650C613DB51245B61881E21D10",
+      "RandomIDCount" : 299,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-27 07:40:01 -0300"
+    },
+    {
+      "Hash" : "75619C210FF6278BC7517DF60509CAE45E880FDA66CC26933D7A5F7CB7A78030",
+      "RandomIDCount" : 124,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-28 09:07:43 -0300"
+    },
+    {
+      "Hash" : "81A42355DC7E664C77C446CB4B73B04C2794701F29F984859372E2E2C68EF71F",
+      "RandomIDCount" : 165,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-28 09:07:43 -0300"
+    },
+    {
+      "Hash" : "6B5586818231382CCBEE3675627D146E76913AD947E764F2EBE4DF1EEBF6409A",
+      "RandomIDCount" : 64,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-28 09:07:43 -0300"
+    },
+    {
+      "Hash" : "3B409FA793068866D338E7421EFF39D353166A1B6B939785F53FBD1EDC09227B",
+      "RandomIDCount" : 62,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-28 09:07:43 -0300"
+    },
+    {
+      "Hash" : "09371AB9607A2CCA87FD06B9C06F98151989BE1E584CEC15F0B241CBDC070936",
+      "RandomIDCount" : 253,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-28 09:07:43 -0300"
+    },
+    {
+      "Hash" : "4BFB998530C711B1CF654367D50F6E03B62AE7718434F98177EC6E00575C42BE",
+      "RandomIDCount" : 94,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-28 09:07:43 -0300"
+    },
+    {
+      "Hash" : "067489B32849A2AA08F2BFA439512EBAFDA2E4F86F0B207FDF16D213E0063B06",
+      "RandomIDCount" : 201,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-28 09:07:43 -0300"
+    },
+    {
+      "Hash" : "D3D9A1FA7C3A636FF833CC88D81304B03C8FDAED1FE33B12C44BEFAC44E1BD7B",
+      "RandomIDCount" : 250,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-28 09:07:43 -0300"
+    },
+    {
+      "Hash" : "95E15E225C0885E280CBD4AD50D20559709381EFD9AE4143C548D3B108C2FB34",
+      "RandomIDCount" : 467,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-28 09:07:43 -0300"
+    },
+    {
+      "Hash" : "081C02D4DFD1EC10C9D15FA6172E414A67C88C8F47A7C2A53E91912882C0C3F7",
+      "RandomIDCount" : 211,
+      "MatchCount" : 1,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-28 09:07:43 -0300"
+    },
+    {
+      "Hash" : "EAE431D93BCF71307054E3DCF16BEEB5FDE05AE37E591E2BAB519C4EEC6582D7",
+      "RandomIDCount" : 174,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-28 09:07:43 -0300"
+    },
+    {
+      "Hash" : "95BB4F833525861467B34409E80FE777C91F84032406C6D4311F62551A20040E",
+      "RandomIDCount" : 113,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-28 09:07:43 -0300"
+    },
+    {
+      "Hash" : "E2C3FE45BBDDAA57EFD6A27B2B4561DC704A1D650C613DB51245B61881E21D10",
+      "RandomIDCount" : 299,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-28 09:07:43 -0300"
+    },
+    {
+      "Hash" : "80E9E47DB9717326AE8F30E8478AE4277A7ABD378E2DD32EEBE8C06A5E8652C0",
+      "RandomIDCount" : 157,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-28 09:07:43 -0300"
+    },
+    {
+      "Hash" : "3B409FA793068866D338E7421EFF39D353166A1B6B939785F53FBD1EDC09227B",
+      "RandomIDCount" : 62,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-29 09:12:25 -0300"
+    },
+    {
+      "Hash" : "81A42355DC7E664C77C446CB4B73B04C2794701F29F984859372E2E2C68EF71F",
+      "RandomIDCount" : 165,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-29 09:12:25 -0300"
+    },
+    {
+      "Hash" : "6B5586818231382CCBEE3675627D146E76913AD947E764F2EBE4DF1EEBF6409A",
+      "RandomIDCount" : 64,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-29 09:12:25 -0300"
+    },
+    {
+      "Hash" : "09371AB9607A2CCA87FD06B9C06F98151989BE1E584CEC15F0B241CBDC070936",
+      "RandomIDCount" : 253,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-29 09:12:25 -0300"
+    },
+    {
+      "Hash" : "4BFB998530C711B1CF654367D50F6E03B62AE7718434F98177EC6E00575C42BE",
+      "RandomIDCount" : 94,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-29 09:12:25 -0300"
+    },
+    {
+      "Hash" : "D3D9A1FA7C3A636FF833CC88D81304B03C8FDAED1FE33B12C44BEFAC44E1BD7B",
+      "RandomIDCount" : 250,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-29 09:12:25 -0300"
+    },
+    {
+      "Hash" : "067489B32849A2AA08F2BFA439512EBAFDA2E4F86F0B207FDF16D213E0063B06",
+      "RandomIDCount" : 201,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-29 09:12:25 -0300"
+    },
+    {
+      "Hash" : "95E15E225C0885E280CBD4AD50D20559709381EFD9AE4143C548D3B108C2FB34",
+      "RandomIDCount" : 467,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-29 09:12:25 -0300"
+    },
+    {
+      "Hash" : "EAE431D93BCF71307054E3DCF16BEEB5FDE05AE37E591E2BAB519C4EEC6582D7",
+      "RandomIDCount" : 174,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-29 09:12:25 -0300"
+    },
+    {
+      "Hash" : "081C02D4DFD1EC10C9D15FA6172E414A67C88C8F47A7C2A53E91912882C0C3F7",
+      "RandomIDCount" : 211,
+      "MatchCount" : 1,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-29 09:12:25 -0300"
+    },
+    {
+      "Hash" : "95BB4F833525861467B34409E80FE777C91F84032406C6D4311F62551A20040E",
+      "RandomIDCount" : 113,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-29 09:12:25 -0300"
+    },
+    {
+      "Hash" : "80E9E47DB9717326AE8F30E8478AE4277A7ABD378E2DD32EEBE8C06A5E8652C0",
+      "RandomIDCount" : 157,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-29 09:12:25 -0300"
+    },
+    {
+      "Hash" : "E2C3FE45BBDDAA57EFD6A27B2B4561DC704A1D650C613DB51245B61881E21D10",
+      "RandomIDCount" : 299,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-29 09:12:25 -0300"
+    },
+    {
+      "Hash" : "EE3D39431F974485D75954494F996AC37AF918339C48CB0AAD203F4FC77C6C2F",
+      "RandomIDCount" : 165,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-29 09:12:25 -0300"
+    },
+    {
+      "Hash" : "81A42355DC7E664C77C446CB4B73B04C2794701F29F984859372E2E2C68EF71F",
+      "RandomIDCount" : 165,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-30 09:14:10 -0300"
+    },
+    {
+      "Hash" : "6B5586818231382CCBEE3675627D146E76913AD947E764F2EBE4DF1EEBF6409A",
+      "RandomIDCount" : 64,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-30 09:14:10 -0300"
+    },
+    {
+      "Hash" : "09371AB9607A2CCA87FD06B9C06F98151989BE1E584CEC15F0B241CBDC070936",
+      "RandomIDCount" : 253,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-30 09:14:10 -0300"
+    },
+    {
+      "Hash" : "4BFB998530C711B1CF654367D50F6E03B62AE7718434F98177EC6E00575C42BE",
+      "RandomIDCount" : 94,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-30 09:14:10 -0300"
+    },
+    {
+      "Hash" : "D3D9A1FA7C3A636FF833CC88D81304B03C8FDAED1FE33B12C44BEFAC44E1BD7B",
+      "RandomIDCount" : 250,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-30 09:14:10 -0300"
+    },
+    {
+      "Hash" : "95E15E225C0885E280CBD4AD50D20559709381EFD9AE4143C548D3B108C2FB34",
+      "RandomIDCount" : 467,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-30 09:14:10 -0300"
+    },
+    {
+      "Hash" : "067489B32849A2AA08F2BFA439512EBAFDA2E4F86F0B207FDF16D213E0063B06",
+      "RandomIDCount" : 201,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-30 09:14:10 -0300"
+    },
+    {
+      "Hash" : "081C02D4DFD1EC10C9D15FA6172E414A67C88C8F47A7C2A53E91912882C0C3F7",
+      "RandomIDCount" : 211,
+      "MatchCount" : 1,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-30 09:14:10 -0300"
+    },
+    {
+      "Hash" : "EAE431D93BCF71307054E3DCF16BEEB5FDE05AE37E591E2BAB519C4EEC6582D7",
+      "RandomIDCount" : 174,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-30 09:14:10 -0300"
+    },
+    {
+      "Hash" : "95BB4F833525861467B34409E80FE777C91F84032406C6D4311F62551A20040E",
+      "RandomIDCount" : 113,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-30 09:14:10 -0300"
+    },
+    {
+      "Hash" : "E2C3FE45BBDDAA57EFD6A27B2B4561DC704A1D650C613DB51245B61881E21D10",
+      "RandomIDCount" : 299,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-30 09:14:10 -0300"
+    },
+    {
+      "Hash" : "80E9E47DB9717326AE8F30E8478AE4277A7ABD378E2DD32EEBE8C06A5E8652C0",
+      "RandomIDCount" : 157,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-30 09:14:10 -0300"
+    },
+    {
+      "Hash" : "EE3D39431F974485D75954494F996AC37AF918339C48CB0AAD203F4FC77C6C2F",
+      "RandomIDCount" : 165,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-30 09:14:10 -0300"
+    },
+    {
+      "Hash" : "8513E5A242D6ED91374C25713FBA784B0B86AB4CAC4EBDEF558A51D2BC86371D",
+      "RandomIDCount" : 184,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-30 09:14:10 -0300"
+    },
+    {
+      "Hash" : "6B5586818231382CCBEE3675627D146E76913AD947E764F2EBE4DF1EEBF6409A",
+      "RandomIDCount" : 64,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-31 09:16:58 -0300"
+    },
+    {
+      "Hash" : "09371AB9607A2CCA87FD06B9C06F98151989BE1E584CEC15F0B241CBDC070936",
+      "RandomIDCount" : 253,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-31 09:16:58 -0300"
+    },
+    {
+      "Hash" : "4BFB998530C711B1CF654367D50F6E03B62AE7718434F98177EC6E00575C42BE",
+      "RandomIDCount" : 94,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-31 09:16:58 -0300"
+    },
+    {
+      "Hash" : "D3D9A1FA7C3A636FF833CC88D81304B03C8FDAED1FE33B12C44BEFAC44E1BD7B",
+      "RandomIDCount" : 250,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-31 09:16:58 -0300"
+    },
+    {
+      "Hash" : "067489B32849A2AA08F2BFA439512EBAFDA2E4F86F0B207FDF16D213E0063B06",
+      "RandomIDCount" : 201,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-31 09:16:58 -0300"
+    },
+    {
+      "Hash" : "081C02D4DFD1EC10C9D15FA6172E414A67C88C8F47A7C2A53E91912882C0C3F7",
+      "RandomIDCount" : 211,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-31 09:16:58 -0300"
+    },
+    {
+      "Hash" : "95E15E225C0885E280CBD4AD50D20559709381EFD9AE4143C548D3B108C2FB34",
+      "RandomIDCount" : 467,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-31 09:16:58 -0300"
+    },
+    {
+      "Hash" : "EAE431D93BCF71307054E3DCF16BEEB5FDE05AE37E591E2BAB519C4EEC6582D7",
+      "RandomIDCount" : 174,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-31 09:16:58 -0300"
+    },
+    {
+      "Hash" : "E2C3FE45BBDDAA57EFD6A27B2B4561DC704A1D650C613DB51245B61881E21D10",
+      "RandomIDCount" : 299,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-31 09:16:58 -0300"
+    },
+    {
+      "Hash" : "95BB4F833525861467B34409E80FE777C91F84032406C6D4311F62551A20040E",
+      "RandomIDCount" : 113,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-31 09:16:58 -0300"
+    },
+    {
+      "Hash" : "EE3D39431F974485D75954494F996AC37AF918339C48CB0AAD203F4FC77C6C2F",
+      "RandomIDCount" : 165,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-31 09:16:58 -0300"
+    },
+    {
+      "Hash" : "80E9E47DB9717326AE8F30E8478AE4277A7ABD378E2DD32EEBE8C06A5E8652C0",
+      "RandomIDCount" : 157,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-31 09:16:58 -0300"
+    },
+    {
+      "Hash" : "8513E5A242D6ED91374C25713FBA784B0B86AB4CAC4EBDEF558A51D2BC86371D",
+      "RandomIDCount" : 184,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-31 09:16:58 -0300"
+    },
+    {
+      "Hash" : "85D7A75AC54EDF051BC6C51F40705FE37C8D3B38CB2ED5930F95959E1631CFC3",
+      "RandomIDCount" : 194,
+      "MatchCount" : 0,
+      "DataSource" : "uy.gub.app.covid19",
+      "Timestamp" : "2020-12-31 09:16:58 -0300"
+    }
+  ],
+  "DeviceProductType" : "iPhone12,1"
+}
